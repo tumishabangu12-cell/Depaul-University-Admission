@@ -112,7 +112,7 @@ Found severe workload imbalance
 Evaluated intake distribution across Fall, Spring, Winter, and Summer
 📍 Outreach Outcome Analysis
 Analyzed pipeline outcomes and unresolved applications
-📈 Visualizations Created
+📈 Visualizations Created live dashboard https://moment-view-dash.lovable.app
 
 The following visualizations were developed using Matplotlib:
 
