@@ -32,6 +32,7 @@ Each row in the dataset represents a student outreach interaction or admissions 
 
 ## Data Visualization
 - Matplotlib
+- live dashboard https://moment-view-dash.lovable.app
 
 ## Reporting
 - ReportLab (PDF generation)
